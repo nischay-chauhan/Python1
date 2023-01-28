@@ -1,2 +1,3 @@
 # Python1
-Python1
+learing the basics of python.
+
