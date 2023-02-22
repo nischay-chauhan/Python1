@@ -1,6 +1,5 @@
 import random
 
-
 x = int(input("enter a number for the top range : "))
 
 range_number = random.randint(1 , x)
